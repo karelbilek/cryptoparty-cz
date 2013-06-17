@@ -1,0 +1,4 @@
+cryptoparty-cz
+==============
+
+cryptoparty
